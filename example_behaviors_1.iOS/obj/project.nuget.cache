@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8P7ENKd5GIytvcRFql63lCU8QVHWEd4FsWOau6DwFlfRNyT8KICHwEqXDm3lr4wAcw33bIjGOQHwnOpUSu7Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\repos\\example_behaviors_1\\example_behaviors_1.iOS\\example_behaviors_1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
